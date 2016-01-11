@@ -4406,11 +4406,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="133.45001"
-     inkscape:cy="-38.520486"
+     inkscape:zoom="0.0875"
+     inkscape:cx="1232.0371"
+     inkscape:cy="-2862.4277"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="1008"
@@ -4432,7 +4432,9 @@
   <g
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     style="display:inline"
+     sodipodi:insensitive="true">
     <image
        y="330.96945"
        x="500.32141"
@@ -5549,12 +5551,14 @@
        inkscape:export-ydpi="38" />
     <path
        style="fill:#00ffff;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 284.42969 1485.5723 L 232.91211 1487.5918 L 233.92188 1626.9941 L 284.42969 1485.5723 z "
-       id="path4438" />
+       d="m 284.42969,1485.5723 -51.51758,2.0195 1.00977,139.4023 50.50781,-141.4218 z"
+       id="path4438"
+       inkscape:connector-curvature="0" />
     <path
        style="fill:#00ffff;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 19.769531 1230.0039 L -48.919922 1350.2109 L -117.61133 1231.0137 L -301.45898 1231.0137 L -289.33594 1242.125 L -148.92578 1453.248 L -308.5293 1696.6934 L -133.77344 1698.7148 L -49.929688 1566.3848 L 27.851562 1693.6641 L 288.4707 1694.6738 L 301.60352 1651.2363 L 374.33398 1647.1973 L 389.48633 1694.6738 L 468.27734 1692.6543 L 383.42578 1415.8711 L 96.541016 1408.8008 L 95.53125 1488.6035 L 160.18164 1488.6035 L 160.18164 1620.9336 L 51.083984 1463.3496 L 202.60742 1230.0039 L 19.769531 1230.0039 z M 284.42969 1485.5723 L 233.92188 1626.9941 L 232.91211 1487.5918 L 284.42969 1485.5723 z M 337.96875 1506.7852 L 362.21289 1589.6172 L 315.74414 1589.6172 L 337.96875 1506.7852 z "
-       id="path4344-90" />
+       d="m 19.769531,1230.0039 -68.689453,120.207 -68.691408,-119.1972 -183.84765,0 12.12304,11.1113 140.41016,211.123 -159.60352,243.4454 174.75586,2.0214 83.843752,-132.33 77.78125,127.2793 260.619138,1.0097 13.13282,-43.4375 72.73046,-4.039 15.15235,47.4765 78.79101,-2.0195 -84.85156,-276.7832 -286.884764,-7.0703 -1.009766,79.8027 64.65039,0 0,132.3301 -109.097656,-157.584 151.523436,-233.3457 -182.837889,0 z m 264.660159,255.5684 -50.50781,141.4218 -1.00977,-139.4023 51.51758,-2.0195 z m 53.53906,21.2129 24.24414,82.832 -46.46875,0 22.22461,-82.832 z"
+       id="path4344-90"
+       inkscape:connector-curvature="0" />
     <path
        style="fill:#00ffff;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 173.40595,1338.9784 127.8572,1.4286 -67.1429,-107.1429 z"
@@ -5892,14 +5896,14 @@
        d="m 886.91393,3735.3274 -200.18765,9.7377 -6.05321,200.333 -132.42821,-150.4417 -160.4007,120.1729 35.05239,-197.3353 -193.9632,-50.4797 176.13782,-95.6316 -81.46745,-183.1201 184.58788,78.0848 92.37495,-177.8673 54.03951,193.0017 196.65712,-38.6769 -117.20172,162.5844 z"
        inkscape:transform-center-x="8.0401791"
        inkscape:transform-center-y="12.879945"
-       transform="matrix(0.87907557,0.49588297,-0.28726947,0.50925639,1500.4082,1214.5511)"
+       transform="matrix(0.87907557,0.49588297,-0.28726947,0.50925639,1120.5908,353.90113)"
        inkscape:export-xdpi="38"
        inkscape:export-ydpi="38" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:101.30432892px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="2407.7063"
-       y="2433.6458"
+       x="1648.4498"
+       y="1878.2097"
        id="text6260"
        sodipodi:linespacing="125%"
        transform="matrix(0.8660254,0.5,-0.5,0.8660254,0,0)"
@@ -5907,8 +5911,8 @@
        inkscape:export-ydpi="38"><tspan
          sodipodi:role="line"
          id="tspan6262"
-         x="2407.7063"
-         y="2433.6458">new!</tspan></text>
+         x="1648.4498"
+         y="1878.2097">new!</tspan></text>
     <path
        inkscape:connector-curvature="0"
        style="fill:url(#radialGradient5834-9);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5367-4-1-1)"
@@ -6114,5 +6118,20 @@
          x="-1739.5764"
          y="-318.40903"
          id="tspan5144">this are random bits and pieces</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Ebene 2">
+    <rect
+       style="opacity:0;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:6.08801985;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5139"
+       width="1005.024"
+       height="544.39435"
+       x="-299.2019"
+       y="4873.5127"
+       inkscape:export-filename="C:\Users\otte\Documents\GitHub\stuff\xta-logo\png\v6.png"
+       inkscape:export-xdpi="89.01091"
+       inkscape:export-ydpi="89.01091" />
   </g>
 </svg>
